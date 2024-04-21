@@ -6,3 +6,5 @@
 6.steps-bugfix2.0
 7.update steps-bugfix2.0
 8.update steps +read me
+
+14.added steps to main
