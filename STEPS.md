@@ -6,3 +6,8 @@
 6.steps-bugfix2.0
 7.update steps-bugfix2.0
 8.update steps +read me
+9.Update steps-bfix
+10.updatesteps+read me-bfix
+11.merged bugfix2.0 to bugfix
+12.merged bug fix to main
+13.edit to steps from bugfix +image
